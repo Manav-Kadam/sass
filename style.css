@@ -532,4 +532,8 @@ font-weight: 300;
     width:100%;
   }
 
+header{
+  padding: 1% 0.5rem;
+  justify-content: space-around;
+}
 }
